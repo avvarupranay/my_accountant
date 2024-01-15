@@ -1,0 +1,34 @@
+{
+  "project_info": {
+    "project_number": "649026617398",
+    "project_id": "my-accountant-c382a",
+    "storage_bucket": "my-accountant-c382a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649026617398:android:30f50ae363a1de65f55897",
+        "android_client_info": {
+          "package_name": "com.example.my_accountant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYjUk4MR1bdx5gk0iqS9lHV6D-3ZfnPcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649026617398-5nufm5a77g03eqiceqc8gcurafiracj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
