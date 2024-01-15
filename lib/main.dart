@@ -18,8 +18,6 @@ void main() async {
     options: DefaultFirebaseOptions.currentPlatform,
   );
 
-  bool? userInfoAvailable;
-
   runApp(RootAppInjector(
     child: const MyApp(),
   ));
